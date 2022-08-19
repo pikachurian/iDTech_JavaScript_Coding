@@ -1,1 +1,2 @@
 # Working with Basic Data Types Activity
+This program prints out a story.  This program uses variables of various data types to store information relevent to the story.  For example, the variable heroName stores the name of the hero, and is printed out, along with the story text, to represent the hero's name in the story.
