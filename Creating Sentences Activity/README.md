@@ -1,1 +1,2 @@
 # Creating Sentences Activity
+This program contains a function called createSentence.  This function takes an array as an argument and adds each item in the array to a string variable, called sentence.  This variable is then returned.  The program prints the return value of createSentence with an array called words as the function's argument.

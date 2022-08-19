@@ -1,8 +1,8 @@
 // TODO: Create a variable called "fortune" and assign a number between 0 - 10.
 // YOUR CODE GOES HERE
 let fortune = 7;
-//GIT GIT GIT GIT GIT GIT GIT GIT
-//GIT
+
+
 console.log("Fortune Selected: " + fortune);
 
 // TODO: Create a fortune teller game using conditional statements and comparison operators.

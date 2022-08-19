@@ -1,1 +1,2 @@
 # Fortune Teller Activity
+Print a fortune to the console based on the value of the variable fortune.  The variable fortune stores a number.  If the number is between zero to ten inclusive, then the fortune will be read.  Otherwise, the program will print out that it was hard to read your fortune. 
