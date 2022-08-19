@@ -1,1 +1,2 @@
 # Debugging Activity
+This program contained four errors that needed to be debugged.  By using inspect on the web page to view the error messages and examining the code in visual studio code, I have debugged all four of the errors.
