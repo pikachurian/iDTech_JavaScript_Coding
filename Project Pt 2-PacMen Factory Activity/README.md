@@ -1,1 +1,2 @@
 # Project Pt 2 - PacMen Factory Activity
+This program lets you create pacmen at random positions.  Then, with the push of a button, all the pacmen will move at different speeds.  Like the previous pacman activity, a pacman will move in the opposite direction when it reaches the edge of the window.  This makes it look like the pacmen are bouncing
