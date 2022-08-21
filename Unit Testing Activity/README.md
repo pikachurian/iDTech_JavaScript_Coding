@@ -1,1 +1,2 @@
 # Unit Testing Activity
+This program contains a function that returns a string.  The string is a greeting message based on the names in the name argument.  For example, if the name argument equals Mark, the program should return "Hello, Mark".  The function can take either a single string, to greet one person, or an array of strings, to greet multiple people, as the name argument.  This program was developed to practice unit testing.
